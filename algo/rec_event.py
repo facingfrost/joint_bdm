@@ -52,3 +52,5 @@ top_n = get_top_n(predictions, n=10)
 # Print the recommended items for each user
 for uid, user_ratings in top_n.items():
     print(uid, [iid for (iid, _) in user_ratings])
+
+# spark-reference: https://spark.apache.org/docs/latest/mllib-collaborative-filtering.html
