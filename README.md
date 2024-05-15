@@ -34,7 +34,7 @@ In `algo/rec_event_spark_train.py`, spark read text file directly from delta lak
 In `algo/rec_event_spark_predict.py`, spark loaded the model trained and recommend 5 product to every user.
 
 ## How to run through the whole pipeline
-```python
+```bash
 # preprocess the data and store to delta lake, the downloaded raw data is input/Online Retail.xlsx and the csv file should be stored in input/online_retail_processed.csv
 python preprocess/process_online_retail.py
 # train the ALS recommendation model, the model will be stored in target/tmp/myCollaborativeFilter
