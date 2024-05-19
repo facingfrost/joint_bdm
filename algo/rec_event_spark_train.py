@@ -26,37 +26,54 @@ from delta.tables import *
 from pyspark.sql.functions import *
 
 # $example on$
-from pyspark.mllib.recommendation import ALS, MatrixFactorizationModel, Rating
+from pyspark.ml.recommendation import ALS
+# from pyspark.mllib.recommendation import ALS, MatrixFactorizationModel, Rating
+from pyspark.ml.evaluation import RegressionEvaluator
+from pyspark.sql import Row, SparkSession
 # $example off$
 
 if __name__ == "__main__":
 
-    sc = SparkContext(appName="PythonCollaborativeFilteringExample")
+    spark = SparkSession.builder \
+        .appName("RatingsExample") \
+        .getOrCreate()
     # $example on$
     # Load and parse the data
     # data = sc.textFile("input/online_retail_processed.csv")
-    data = sc.textFile("data/delta-table")
-    ratings = data.map(lambda l: l.split(','))\
-        .map(lambda l: Rating(int(l[0]), int(l[1]), float(l[2])))
-
+    lines = spark.read.text("data/delta-table").rdd
+    parts = lines.map(lambda row: row.value.split(","))
+    ratingsRDD = parts.map(lambda p: Row(userId=int(p[0]), eventId=int(p[1]),
+                                        rating=float(p[2])))
+    ratings = spark.createDataFrame(ratingsRDD)
+    (training, test) = ratings.randomSplit([0.9, 0.1])
     # Build the recommendation model using Alternating Least Squares
     rank = 10
     numIterations = 10
     # For explicit feedback
     # model = ALS.train(ratings, rank, numIterations)
     # For implicit feedback
-    model = ALS.trainImplicit(ratings, rank, numIterations)
+    # model = ALS.trainImplicit(training, rank, numIterations)
+    als = ALS(maxIter=5, regParam=0.01, implicitPrefs=True, userCol="userId", itemCol="eventId", ratingCol="rating",
+            coldStartStrategy="drop")
+    model = als.fit(training)
     print("Train model success!")
 
     # Evaluate the model on training data
-    testdata = ratings.map(lambda p: (p[0], p[1]))
-    predictions = model.predictAll(testdata).map(lambda r: ((r[0], r[1]), r[2]))
-    ratesAndPreds = ratings.map(lambda r: ((r[0], r[1]), r[2])).join(predictions)
-    MSE = ratesAndPreds.map(lambda r: (r[1][0] - r[1][1])**2).mean()
-    print("Mean Squared Error = " + str(MSE))
-    print("Evaluate model success!")
+    predictions_train = model.transform(training)
+    evaluator_train = RegressionEvaluator(metricName="rmse", labelCol="rating",
+                                    predictionCol="prediction")
+    rmse = evaluator_train.evaluate(predictions_train)
+    print("Root-mean-square error of training set = " + str(rmse))
+
+    # Evaluate the model on test data
+    predictions_test = model.transform(test)
+    evaluator_test = RegressionEvaluator(metricName="rmse", labelCol="rating",
+                                    predictionCol="prediction")
+    rmse = evaluator_test.evaluate(predictions_test)
+    print("Root-mean-square error of test set = " + str(rmse))
 
     # Save and load model
-    model.save(sc, "target/tmp/myCollaborativeFilter")
+    # model.save(spark, "target/tmp/myCollaborativeFilter")
+    model.write().overwrite().save("target/tmp/myCollaborativeFilter")
     # sameModel = MatrixFactorizationModel.load(sc, "target/tmp/myCollaborativeFilter")
     # $example off$

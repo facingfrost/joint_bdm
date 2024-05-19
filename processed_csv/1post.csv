@@ -1,4 +1,4 @@
-_id,type,title,name,gender,content,latlng
+event_id,type,title,name,gender,content,latlng
 65f1d74032536e1ffd51dd0b,travel,Find a Travel Buddy,Garth Carver,female,I want to travel to Barcelona and I'm looking for a companion with similar interests to travel together.,"41.3851, 2.1734"
 65f1d74032536e1ffd51dd0c,sports,Find a Sports Buddy,Daniel Best,female,I'm looking for someone to do sports together.,"41.3902, 2.1540"
 65f1d74032536e1ffd51dd0d,restaurant,Find a Restaurant Buddy,Tarik Gallegos,female,I'm looking for someone to taste food together.,"41.3918, 2.1649"
