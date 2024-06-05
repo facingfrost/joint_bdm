@@ -1,0 +1,1234 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYU7B4BzbYcu8_u-2yZD9NiT_jVyKjx_AkARe0dJUj27cCTjIk0ei9OX095kw3hd5tbjJiKZsWzJZgBP_nN4sgq4A8qv58B2gURy59d409nBDF6qjud9PvZkLmYdFZdzGHIgMPIS3xvz3bTseg7HTdTelBBoFkmp9Mo4ciLE9QPkEEYxtmsFtywheoO4ZY_Av4s1oDpf2z7f8ZT1osIdt7UvhH7tlBGeiSbIQ-6YCAxZv7sX6Sk8qxdykmrz8yZW2lL4lztJ3RLiaZKWavYnbo1VuY1hvaBwJPW3mYx9KCltVuKk_BK6p6pnkU1eJ8bZe5ykqlw4xrNhxoSAFv9-nbEyNLwLLsnsQlz3P6HWyxHxOJP1_wA4Weok3yuK49MbyhM_jWnXP32c49St3o",
+   "results" :
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carrer de les Mimoses, 8, Sarrià-Sant Gervasi, 08034 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3996418,
+               "lng" : 2.1197347
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.40099932989272,
+                  "lng" : 2.121099029892723
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39829967010727,
+                  "lng" : 2.118399370107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Body Lab Fitness Barcelona",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115925874651083525212\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYj-c96lwWmtb1VFXZH2wCkTWT1KxqAz99VLNktNrEsoEBfQEAmmDPCcsdmqYlWf57ep2VagHJriK-RbAF39ip9pdv6DMf-0kJkNJzZgVaNr4jya9PX-t1G4vuW-CWT--6vEcpxI_ORul3tmx8buR6ucpzwsMqwhc-pa0-W4JDTHv0Y",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJwfQMJkeYpBIRn50XzIQP7y8",
+         "plus_code" :
+         {
+            "compound_code" : "94X9+VV Barcelona",
+            "global_code" : "8FH494X9+VV"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJwfQMJkeYpBIRn50XzIQP7y8",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 93
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Roger de Llúria, 40, L'Eixample, 08009 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.39210380000001,
+               "lng" : 2.1705451
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.39339547989272,
+                  "lng" : 2.171795779892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39069582010728,
+                  "lng" : 2.169096120107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "COSMOFIT",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3840,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108665149553918177149\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaHXvAlH_CQ2kvepglNF_7aYEI1qgXdNs4h2FrRQsGGf7Nl-nsCpkmCToqaKyCCbMFIcp56OIcnUoCTspES4XX_JiDh2L9QfI7EWPUiR_qn9149O13qNEESkPIIVogn8PbfUNazTqNMckhgrzGeMmurm_kEbJ-4EfkKw6d1JgpGvJ4B",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJmcQFU8mjpBIRlChkxov5sC0",
+         "plus_code" :
+         {
+            "compound_code" : "95RC+R6 Barcelona",
+            "global_code" : "8FH495RC+R6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJmcQFU8mjpBIRlChkxov5sC0",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 276
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ d'Entença, 102, baixos, L'Eixample, 08015 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3803415,
+               "lng" : 2.1499443
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38164522989273,
+                  "lng" : 2.151231429892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.37894557010728,
+                  "lng" : 2.148531770107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "XFIT Eixample",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109388602665059903018\"\u003eCarolina Arvelo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJadEBLI5hkNFxJJ-g1bIYkLUOmOWJSGC0L_Qvyry05lvXcqU_F3IACGN_AHpRm2Akac0KMLOVrhHNNbDpRDXEoHjhtsf7tYYYh5QiUdwBr6gCWdwuAgFLBrmv2LLtPZZzlC9BRWpfRDyXx9J42iFHmFQ7QtujEQjLFne4ft_-MRYTgD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ94t14n2ipBIRNa_yg2jxglU",
+         "plus_code" :
+         {
+            "compound_code" : "94JX+4X Barcelona",
+            "global_code" : "8FH494JX+4X"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ94t14n2ipBIRNa_yg2jxglU",
+         "types" :
+         [
+            "gym",
+            "spa",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 542
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Londres, 69, L'Eixample, 08036 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3922768,
+               "lng" : 2.1487462
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.39354282989272,
+                  "lng" : 2.150208629892721
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39084317010727,
+                  "lng" : 2.147508970107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "VivaGym Londres | Gimnasio en Barcelona",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100821035246960328384\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZsrLrh5119bfn7Q2gfiKzKVGTYRcnF7AxgHpZ5qhbQkqNUqlW-5_akdX4yshg5SORPe97SR99m8zBviOwJjz7vAUe7DtxYqfLkZ3UraNyrtAmemtohkKqIy7jMeWyY14iTElwfMhkajlsA9dGP6iRyvIUHjCXSZhbiFBIiiupFo3gr",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJa5R8WNOjpBIRCA4ZjLwkQQU",
+         "plus_code" :
+         {
+            "compound_code" : "94RX+WF Barcelona",
+            "global_code" : "8FH494RX+WF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJa5R8WNOjpBIRCA4ZjLwkQQU",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 239
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ d'Aragó, 322, L'Eixample, 08009 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3952672,
+               "lng" : 2.1692586
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.39671222989272,
+                  "lng" : 2.170655079892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39401257010728,
+                  "lng" : 2.167955420107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "BCN Fitness",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1468,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111626363505671306756\"\u003eBCN-FITNESS, 24 HORAS\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYNfosB5pWVWd2YQEVbHohg-yB_El825yv9N12y-WzThIvpscZXV3Wlp0zo0yy2Ljtu0kG8rDy3_QPFi7fgzt-xGeodYzXefqn4bs_8Anpi7SmCoIvSL2oYsIps6Oo6147JmezKz5vYFI9nQGeMIhT09Fdq4UG-F18yjyJwTnJRTifI",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJbf9sA-yipBIRBsaWQtiGMLs",
+         "plus_code" :
+         {
+            "compound_code" : "95W9+4P Barcelona",
+            "global_code" : "8FH495W9+4P"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJbf9sA-yipBIRBsaWQtiGMLs",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 330
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Copèrnic, 91, Sarrià-Sant Gervasi, 08006 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.402576,
+               "lng" : 2.1440157
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.40409872989272,
+                  "lng" : 2.145480679892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.40139907010728,
+                  "lng" : 2.142781020107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "WIN Fitness Barcelona",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108498021397643508845\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb56RyVt-ypEmgc3kZ7_9tIv4HuV49qrEa2fW7Xbncw5GDvQnf0_osc7JZJ6IcxhABLxkzebuA4y05-kmi04NJAo0doWQnWtpaZb0hPa74wjMS9YeoSmFxVCa6pCWx7zkqSzPKyZZHkTMGZSGreDjwlIa3osjGCndQY6kBTvF6XL45q",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJo1yu-Z-ipBIR3Jjf3Xwwh_Y",
+         "plus_code" :
+         {
+            "compound_code" : "C43V+2J Barcelona",
+            "global_code" : "8FH4C43V+2J"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJo1yu-Z-ipBIR3Jjf3Xwwh_Y",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 118
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Augusta, 17, Sarrià-Sant Gervasi, 08006 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3969074,
+               "lng" : 2.1544011
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.39831582989272,
+                  "lng" : 2.155849779892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39561617010727,
+                  "lng" : 2.153150120107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "VivaGym Vía Augusta | Gimnasio en Barcelona",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100336238536855995236\"\u003eDuet Fit Via Augusta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZal_0daWh5vjXHDibjRG1EUqRrZglhCJQpTX2WM6l9P3efo7bmXnxTbzKV4unEthBNqESJb858BaMmpBME4xIKCyHyWEp-bqtt1VfmVl48RL9yHISeAvsGmuUJQw0mrAUpZVXudims-AAicezhK9CvZbv06RD_vY6aN6uzUfFBLqQ",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJKf2c45mipBIRVnRr1lyRhRo",
+         "plus_code" :
+         {
+            "compound_code" : "95W3+QQ Barcelona",
+            "global_code" : "8FH495W3+QQ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJKf2c45mipBIRVnRr1lyRhRo",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 1108
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de les Escoles Pies, 105, Sarrià-Sant Gervasi, 08017 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.4048735,
+               "lng" : 2.1263017
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.40626142989273,
+                  "lng" : 2.127796579892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.40356177010728,
+                  "lng" : 2.125096920107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Metropolitan Iradier",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117227246556600505026\"\u003eGiulio\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa11mFJ-TQUoOnpyjLoxUUeaCKy9CvIsslTcEx3nbQLk2lbjIqaLKZeFN1-kGD0JyP_TH90gbuOrze0RO3_RB1hqZXkZhTn0PnIv1hrpZMszdpcAa6P6vZzkidaBOe-n_8nFrn8Jnrns2wN_niNp5wgPOioFowAUL5Rf6Nz7GwFqPlu",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJa5QNlxWYpBIRRN0BciLU32Q",
+         "plus_code" :
+         {
+            "compound_code" : "C43G+WG Barcelona",
+            "global_code" : "8FH4C43G+WG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJa5QNlxWYpBIRRN0BciLU32Q",
+         "types" :
+         [
+            "gym",
+            "spa",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 741
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Gran Via de les Corts Catalanes, 593, L'Eixample, 08007 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.388022,
+               "lng" : 2.1659516
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38935282989272,
+                  "lng" : 2.167328729892723
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38665317010727,
+                  "lng" : 2.164629070107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gimnàs McFIT",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1960,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111224921847056887036\"\u003eNils Gustafsson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaY4BPUaXDzA-h5HVM39fvQ4bLeyrFLhmVDeodTUClWT9SJ-MNt7AegK76JobISFeeGCheiRAW913OOOQSz980BkD5TaNy8q05i_0DLGMVqGj7px6vS1x3FFYQv_1Yexg5LxTsAUvE6vMdpmRd3B1fhdHRuHf5FFTouPZYbbMAhknS-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJWxm_GPOipBIRYYt8fBKUWRI",
+         "plus_code" :
+         {
+            "compound_code" : "95Q8+69 Barcelona",
+            "global_code" : "8FH495Q8+69"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJWxm_GPOipBIRYYt8fBKUWRI",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 1364
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carrer d'Aribau, 121, L'Eixample, 08036 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.391138,
+               "lng" : 2.1555479
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.39250632989272,
+                  "lng" : 2.156923979892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38980667010727,
+                  "lng" : 2.154224320107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Orangetheory Fitness Aribau",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101719231674829826218\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYIz2rsc6lVxkJFiA8p5LvoG0Q4Kz3vcO_adQvlzSmo_YdSDhGS0nwHW3T1nGJfAvE5Nj_wNR53t0l4qGtXQWZNBPbC9At6Gs3aEfFnTWts1LEkp7oF-ZEpClcJbAyhBbG5hX42ofmfChLZOw8_AqKj0sn3jcZoYDqLMsSVYVB-Sdnx",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJM9xjHR2jpBIRtKSqpTXYsOs",
+         "plus_code" :
+         {
+            "compound_code" : "95R4+F6 Barcelona",
+            "global_code" : "8FH495R4+F6"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJM9xjHR2jpBIRtKSqpTXYsOs",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 90
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carrer del Perill, 16, Gràcia, 08012 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.399545,
+               "lng" : 2.1617254
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.40082617989273,
+                  "lng" : 2.162964529892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39812652010728,
+                  "lng" : 2.160264870107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Eurofitness",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101191181181247054176\"\u003eTomaž Verdinek\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaN_zMGcf6Bjp32lJcAfcb3wxtkTvjZogEgEn1jyvBSRfErnyIDxQyZDlpvvIBnIzsew_XQy7XivXy_MDkBviac35GGGUMe6pNh0JEioVCut6Xu4Y9bMZyznuf4rkgH6MAM-YH3Z77uJkle1HMczpQQMJmtjpRY4FOGym0qakKjV4fK",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJD68YoJWipBIRWzQhzWcsALI",
+         "plus_code" :
+         {
+            "compound_code" : "95X6+RM Barcelona",
+            "global_code" : "8FH495X6+RM"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJD68YoJWipBIRWzQhzWcsALI",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 851
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. de Roma, 42, L'Eixample, 08015 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3819075,
+               "lng" : 2.1471648
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38330427989273,
+                  "lng" : 2.148510529892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38060462010728,
+                  "lng" : 2.145810870107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "VivaGym",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 747,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117233654174119496979\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbrtN2XetaJEjupAWMImmIUx9pyzLwZHXYktMLv2MhLWw0UazhrJ6O-GJ8vsPYTAvac7K6Hw61cVQuUBP5IJ4oKAqAydVKIG6qQZ9KpFOupjqn-kpV8PNM-W2WqpuXZ2CTr8IlNwK88O3vG7hdoRbjsCx5GlwarFZUAjuFaQCgkdY3p",
+               "width" : 1328
+            }
+         ],
+         "place_id" : "ChIJm0a9ZICipBIR7ZTc9Z5nhRs",
+         "plus_code" :
+         {
+            "compound_code" : "94JW+QV Barcelona",
+            "global_code" : "8FH494JW+QV"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJm0a9ZICipBIR7ZTc9Z5nhRs",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 422
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Balmes, 184, Sarrià-Sant Gervasi, 08006 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.39646399999999,
+               "lng" : 2.1536453
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.39774732989272,
+                  "lng" : 2.154899679892723
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39504767010727,
+                  "lng" : 2.152200020107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fitness Park Barcelona - Balmes",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1350,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116640298430302958459\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZzX7B08K7JeEpqh5tMOO3KRyXUzglMqRdC2bDh3IGa6vFYqgSu9hsyG62c5RLbGOpopWRZT8DOggw6oDuzs2CNEfLZoH14jiMhp6KoLj9vMj0_9DNlOcMdwsUIdfCVf6rbTmbTjkLdsnsAjYSgtU4sLlHqQI5kHVZvGdtTfYdXa6HD",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ-fL3djWjpBIRxYwgD2lXsgw",
+         "plus_code" :
+         {
+            "compound_code" : "95W3+HF Barcelona",
+            "global_code" : "8FH495W3+HF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ-fL3djWjpBIRxYwgD2lXsgw",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 776
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. de Josep Tarradellas, 133, Les Corts, 08029 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3901074,
+               "lng" : 2.1431976
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.39144172989272,
+                  "lng" : 2.144628179892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38874207010728,
+                  "lng" : 2.141928520107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gimnàs McFIT",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111207905342685656784\"\u003edin man\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY5BhUZNloR2piHkPEYBLF5wM6aoPLtqLDqXKOlSCPSMvFabfZUk6SFbRUCI285XdsyD5ibreXym-3x2ShDShoo6K6tdDvpG-8yoB62uWGq-rDPU5wgzI64h8L3I6kSyFTxAQ1XAYLOu5K4J6brFz-3nvIwszZMWPlDHxReTtVvlE8R",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJbUoOOHiYpBIRX1PEvAqGZP4",
+         "plus_code" :
+         {
+            "compound_code" : "94RV+27 Barcelona",
+            "global_code" : "8FH494RV+27"
+         },
+         "rating" : 4,
+         "reference" : "ChIJbUoOOHiYpBIRX1PEvAqGZP4",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 1432
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Bailèn, 152, L'Eixample, 08037 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3998561,
+               "lng" : 2.1670328
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.40114617989272,
+                  "lng" : 2.168301829892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39844652010728,
+                  "lng" : 2.165602170107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Attika Fitness - English Speaking Personal Training Gym Barcelona",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 2160,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112945137139415545442\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYt_Ys2Q95t_NlYhDHVMXT38WPUbXqT1V7XcRBbxcp4qI1nnexFI3YLREN01bU-yYPDvMSm2drXQTLtemaA9pkpFw7_diU4zolzy_LbfdsDqXoipJ98fVDMiDP05P0mWVIxOkFH0tmlpB8h3lIse1OIj-CSpYFsHNMkfJst57Rt1jyQ",
+               "width" : 3240
+            }
+         ],
+         "place_id" : "ChIJdWd8mMSjpBIRlU7wI7x356s",
+         "plus_code" :
+         {
+            "compound_code" : "95X8+WR Barcelona",
+            "global_code" : "8FH495X8+WR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJdWd8mMSjpBIRlU7wI7x356s",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 38
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carrer de Casanova, 161, Eixample, 08036 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.39125809999999,
+               "lng" : 2.1508436
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.39275127989272,
+                  "lng" : 2.151898729892721
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39005162010728,
+                  "lng" : 2.149199070107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fitness Park Barcelona - Casanova",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 810,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102370871331602278940\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbFEqnsTYvyCV_Ys2ES-guPPsfldtAlDKg094nvjsAcXLzk5n3VvEMSsxQ0tq0lEMF5l64a5yUaEf1bcCexEYAua2nGPGYSIoFLegQI7y16czQwrfOr4YVxP6DUIoTyFEeHk2QlarHxTa_zVMeK_0LNfyTB5TWz_pHBXs0VjFkGegRP",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ7R4q5M-jpBIRmp-8bSW0s6A",
+         "plus_code" :
+         {
+            "compound_code" : "95R2+G8 Barcelona",
+            "global_code" : "8FH495R2+G8"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ7R4q5M-jpBIRmp-8bSW0s6A",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 1700
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de la Diputació, 16, L'Eixample, 08015 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3774181,
+               "lng" : 2.1503566
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.37883267989272,
+                  "lng" : 2.151603129892723
+               },
+               "southwest" :
+               {
+                  "lat" : 41.37613302010728,
+                  "lng" : 2.148903470107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Synergym Barcelona las Arenas",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101038736280089313056\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbTY8PoYdyO3WCz3cne25DIOshyvTI259qInyu1WHWEFiN7vxDCoRqT0eto0vH0sJsw75_CtF84CAprI6O5kP_ie-dKcJ9fr5JKO7-loHzypTwEYhrGVTb0nGVGeVCpCgdxflPQSebHlGoHw-KrTioFfXZlVfbBbfAu1hWm2drI8FHy",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJDwChfMujpBIRLwxQ13Y-1Uw",
+         "plus_code" :
+         {
+            "compound_code" : "95G2+W5 Barcelona",
+            "global_code" : "8FH495G2+W5"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJDwChfMujpBIRLwxQ13Y-1Uw",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 241
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de la Diputació, 27, 37, Eixample, 08015 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.379191,
+               "lng" : 2.151948
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38053737989272,
+                  "lng" : 2.153389879892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.37783772010728,
+                  "lng" : 2.150690220107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gimnàs Low Cost Vitaliberty",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1200,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115740670936119702022\"\u003eVita Liberté Diputació\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZEtfE0eqYZq2kBl5X7UsvcG-f0ALUn-xysx4jNcFIfHkz8bmqWjNJ7w-XlFRy_S3pXQtTTVEtDOs4ZAkVMWN90JSSg7xuvOEEfny0YbeTKeXG6ZSJGjAOlkdXolJpQHzvlHlD58RG0othIba43_yfzHz5SQqy_aJR-OKPCkqZ_LK-A",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJMStor32ipBIRRP9xCurvX40",
+         "plus_code" :
+         {
+            "compound_code" : "95H2+MQ Barcelona",
+            "global_code" : "8FH495H2+MQ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJMStor32ipBIRRP9xCurvX40",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 87
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ d'Aragó, 115, L'Eixample, 08015 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3829284,
+               "lng" : 2.1524235
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38423752989272,
+                  "lng" : 2.153827529892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38153787010727,
+                  "lng" : 2.151127870107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SNAP Fitness Aragó 24/7",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1124,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116733637893825982784\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYooPuC1GnlHXCcazOMYp60EkcwU_Zr_CiSi40Hk3y09IBhN5zJSeagwGxvN37XfV5-QocfVYqwO7tQ0q2f2bjrzv0E1nWmjG35rQF8rEcmIah0fh6pBS1c_qMghewD2raGtoix9BAew6msEfpPL21l-S3tYwlKKyiHEoEZYi34sLCv",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJiw6Np4eipBIRx85T7fm-Dr0",
+         "plus_code" :
+         {
+            "compound_code" : "95M2+5X Barcelona",
+            "global_code" : "8FH495M2+5X"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJiw6Np4eipBIRx85T7fm-Dr0",
+         "types" :
+         [
+            "gym",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 138
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carrer del Rector Ubach, 37, Sarrià-Sant Gervasi, 08021 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3973893,
+               "lng" : 2.1426519
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.39876197989273,
+                  "lng" : 2.143971929892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39606232010728,
+                  "lng" : 2.141272270107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "GOODFIT - Wellness, Fitness, Coffee",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 900,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108813075714385057608\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbeJ1znP6RsHSvaL8cRkynB7htBqx7ZD4q2TDfiPfNIuO4Kn1JRGsq7igS9_j-74k6XD7PrFd01xGixPCwulpYEZ7oPWZ92CyTczsHj3Q2l1LPXiU_Ur-cuu3oKVlkXKvpSaizimt_WYMOtIltCSmXX0rH0YKFiDIufsq-bJsFfeTqb",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJGVXrGlWZpBIR62E9FHV7VTA",
+         "plus_code" :
+         {
+            "compound_code" : "94WV+X3 Barcelona",
+            "global_code" : "8FH494WV+X3"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJGVXrGlWZpBIR62E9FHV7VTA",
+         "types" :
+         [
+            "gym",
+            "cafe",
+            "clothing_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 106
+      }
+   ],
+   "status" : "OK"
+}

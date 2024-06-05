@@ -1,0 +1,1226 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbJWb5iy_FM9HJh2RBaHB3b-SaBpyZJcFCEF__2QyZ0513RVewra7epXJ6OwAEWCNNf_meYBp_aJiauEH1CcLrBlWxmrC9QfJmxXJDgs9mtrCvLmLnt-fLiQ-EhI6ymReD-DIzwpEIsiccrr_w-lHzDAf9AIn9Og8dUXx_m-UAVAsDLD8q2FgOZWI-fpT2UIi2IrdViKtZNxmrq5Aqjo2FaJA-aTLP7MwbZ_VlxN12zxug5WxLJRTIATZN6P1IpCQ0TnmUYV-AbEKK4P-r24w5H_4Cp4lJbjShwO8OsQQ2h5W-KoNXN0d84OdbDxETLgOieEp_KqlXyGxHSglEk5DV6mW_G1ggb17vhAXxtFdRJzGva9Ia_EafB85Hh0l8Ne1AMZIdRKt_9sl9A87GT7yU4AxRH",
+   "results" :
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Montcada, 15-23, Ciutat Vella, 08003 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3852706,
+               "lng" : 2.1809472
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38656042989272,
+                  "lng" : 2.182215279892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38386077010728,
+                  "lng" : 2.179515620107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Picasso Museum",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101152600094149442411\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYBrD1nfKoLI9-en2cWB4FtgKjU0FpWIlwBRwfSSuQ0afK0PMDgENLKD1ZePFNvZecZT0kqaI7D_Lvfm_pOZnw7PEKUmXDu91BRzwjPay3R4tKL1JvpcQavhWBiJBgsrEnGUO68tGRxqClA1_83_6j0q7602SaOLzDBs_14kSvyg_Q1",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJa-K8mf6ipBIRY8wAB3EeASc",
+         "plus_code" :
+         {
+            "compound_code" : "95PJ+49 Barcelona",
+            "global_code" : "8FH495PJ+49"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJa-K8mf6ipBIRY8wAB3EeASc",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 29481
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Parc de Montjuïc, s/n, Sants-Montjuïc, 08038 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3686304,
+               "lng" : 2.1598509
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.36974722989272,
+                  "lng" : 2.161291429892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.36704757010728,
+                  "lng" : 2.158591770107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Joan Miró Foundation",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 1341,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115276691251450743867\"\u003eFundació Joan Miró\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYJMdh-wavPSOoOroDcmedQ5Oo2xJhO_lvSWa1yNbvmtitQMIhPDStOVTA95icCOuY7lVJ8u-vLuWwq3QjyYJubYuW5eRWKfOtBSZAgDBS8ZgoOqlT-oaP2DLyHcaxLHpAn5s5bWeTmNwBJh1V_tVFYwJlJAx2rtRHUaRcDHz10MkBu",
+               "width" : 2039
+            }
+         ],
+         "place_id" : "ChIJLcelLmmipBIRqmlJrcEfypY",
+         "plus_code" :
+         {
+            "compound_code" : "9595+FW Barcelona",
+            "global_code" : "8FH49595+FW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJLcelLmmipBIRqmlJrcEfypY",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11628
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Palau Nacional, Parc de Montjuïc, s/n, Sants-Montjuïc, 08038 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3684399,
+               "lng" : 2.15357
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.37009297989272,
+                  "lng" : 2.1559042
+               },
+               "southwest" :
+               {
+                  "lat" : 41.36739332010728,
+                  "lng" : 2.1508006
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu Nacional d'Art de Catalunya",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101937644746642721956\"\u003eKlári\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYGBIJVdTwIf2Bx1Cxmbv6jQN5B8Oj2ArpJjB8kFv10BwokUKCHJmRdXRabzJrF4nC0vVHImaeBMA3tfJoQWWAGPq6rxaWVUIMCZhW7HEL3TdNR-n-0H9uhFx9UgFj3I6BUWFlUEkZi3LD6bI3ZLXyd7CD0Br_YpECex4oEXiCGzHe7",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJMU59xHGipBIRkdwlcgUWAYY",
+         "plus_code" :
+         {
+            "compound_code" : "9593+9C Barcelona",
+            "global_code" : "8FH49593+9C"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJMU59xHGipBIRkdwlcgUWAYY",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 30049
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. del Rei, s/n, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.383923,
+               "lng" : 2.1776677
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38546987989272,
+                  "lng" : 2.179167929892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38277022010728,
+                  "lng" : 2.176468270107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Barcelona History Museum MUHBA",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110193227159598364193\"\u003eSantiago Nahuel Cordoba\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbnAqjkyapXfqY7ZXeOKy4Av2xo9W3lzTMApXC1wfb7vOA8FAuDAhHtehW0nbjR9TwvaF6QrJFecwv3bWA-L8ByN5Wk-eiCNCIcj8SMrSpfHOh4iOGPl4brbvghZg265bwcOhVG_RvoIeMOWvCTZMsy9N8YLvjHjw8CPoRP68c2Skm8",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJc0WMe_GipBIRJiU_pUq_bRc",
+         "plus_code" :
+         {
+            "compound_code" : "95MH+H3 Barcelona",
+            "global_code" : "8FH495MH+H3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJc0WMe_GipBIRJiU_pUq_bRc",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4384
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. de les Drassanes, 1, Ciutat Vella, 08001 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3758504,
+               "lng" : 2.1761781
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.3768902,
+                  "lng" : 2.1789156
+               },
+               "southwest" :
+               {
+                  "lat" : 41.37388779999999,
+                  "lng" : 2.172826
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Barcelona Maritime Museum",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3472,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104604712834463779272\"\u003eEva v\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbZsT07MRO06bUnouActrd4er_2ntThQT6oTS-k2m6UXTW9cHpfc0SYS1ufqwt7RA7zHI2HM-2jM4nl9uwrv69gDjz2-iXCzT8sqSYLm7MyKkgVfyzFcdNijFvjSBJFgGLEgqfweL90C1f_pHuXbK8JnQ23nb_hnEherpGRUwlawEwz",
+               "width" : 3472
+            }
+         ],
+         "place_id" : "ChIJOyoByVCipBIR-mZapSxPHY8",
+         "plus_code" :
+         {
+            "compound_code" : "95GG+8F Barcelona",
+            "global_code" : "8FH495GG+8F"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJOyoByVCipBIR-mZapSxPHY8",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12053
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plaça dels Àngels, 1, Ciutat Vella, 08001 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3831913,
+               "lng" : 2.1668668
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38434977989272,
+                  "lng" : 2.168501579892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38165012010727,
+                  "lng" : 2.165801920107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Barcelona Museum of Contemporary Art",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 4000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104604968150740135668\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbf8S3wwNUoZoWd644XJxi1Panh4mpIZsd9nMF5GVoXvWVuWaqtMagrkDE4mpFJTo_VT74SYVL4QQc7BKpW7vfa8Gl5oDXd-Ry2IGkRidxA4TZoZz1To8gFLv3t6kfYwTiFEcd0bizGWmYKzhcII4nEqBCIffahsyxXtHh-xUKrmlYQ",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJ0V6MrPWipBIRKnssXv0o_Y4",
+         "plus_code" :
+         {
+            "compound_code" : "95M8+7P Barcelona",
+            "global_code" : "8FH495M8+7P"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ0V6MrPWipBIRKnssXv0o_Y4",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13241
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. de Francesc Ferrer i Guàrdia, 6-8, Sants-Montjuïc, 08038 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.371308,
+               "lng" : 2.149575
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.37279672989273,
+                  "lng" : 2.15126175
+               },
+               "southwest" :
+               {
+                  "lat" : 41.37009707010728,
+                  "lng" : 2.147704350000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "CaixaForum Barcelona",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 2562,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114059150706836453222\"\u003eCaixaForum Barcelona\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbMW1eYEk2q2LF845aYsC-zlYXAMWRDxY2G9MS8hxaoJN0qObu3zjbzF9-zH9CNk37cyKnWRbo372vFTcr7uOSkiItjbAFzflXXDiUsvWtNIv8SyDy6ImskZGznqAOoE18sTJO82K6NN5prc3DIe5rC1J9r4Rzce04xpBkmOhU58zRz",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJJVQ6VneipBIRIV6uqvMfBI0",
+         "plus_code" :
+         {
+            "compound_code" : "94CX+GR Barcelona",
+            "global_code" : "8FH494CX+GR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJJVQ6VneipBIRIV6uqvMfBI0",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16575
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ d'Aragó, 255, L'Eixample, 08007 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3915317,
+               "lng" : 2.1638
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.39285007989272,
+                  "lng" : 2.165196979892723
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39015042010728,
+                  "lng" : 2.162497320107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Fundació Antoni Tàpies",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 2136,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103480454456129816727\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ91DADaxEd1b5xtg3isrBH0AlmSDwvggjW6BctFxYqbR18eCDYqnRVX-Fl7KjmU4UewLw2naOyiU7T6D8szzAUvr-7huzQbLAmywNOIjOA3G_no4N2X26LuB_f8XL1hkkEW4Otm7fo6FoYkdywT3rUdTFWC0d01VN_QweK_5ZoSB8x",
+               "width" : 2720
+            }
+         ],
+         "place_id" : "ChIJ5XvzpJKipBIRrTCSZXbotTo",
+         "plus_code" :
+         {
+            "compound_code" : "95R7+JG Barcelona",
+            "global_code" : "8FH495R7+JG"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ5XvzpJKipBIRrTCSZXbotTo",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1161
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pça. de Pau Vila, 3, Ciutat Vella, 08039 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.380804,
+               "lng" : 2.185873
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38233367989272,
+                  "lng" : 2.187464829892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.37963402010728,
+                  "lng" : 2.184765170107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of the History of Catalonia",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108256198420855567010\"\u003eвиктория дубовая\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZpc7oFIJdoEbGQ7rslmE0Laxf0uKJfpf3TWnQx-c72uj5Mnhp3Phhnk3Z9jwPYrgzDkfqHZLPes8aI-pWLEgqhKZ27nAwR0N1cdxIqSlh-gu2URTRgEkdgNNc5Y_m6feNa3_W0Jj_dDD5Fvw2QjRbxSb1WJVUzUqvqZj34rqaob8k3",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJBTfBbwCjpBIRK-jjm940utc",
+         "plus_code" :
+         {
+            "compound_code" : "95JP+88 Barcelona",
+            "global_code" : "8FH495JP+88"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJBTfBbwCjpBIRK-jjm940utc",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4922
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. de Francesc Ferrer i Guàrdia, 13, Sants-Montjuïc, 08038 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3688085,
+               "lng" : 2.1482732
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.37044387989272,
+                  "lng" : 2.149201349999999
+               },
+               "southwest" :
+               {
+                  "lat" : 41.36774422010727,
+                  "lng" : 2.14548875
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Poble Espanyol",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108742144005747834089\"\u003eBram van Opstal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYItunNoBvb6Ttr11OvtYzMz5qIjN7ScSzDKb43NYUXcg74bbSwr6S5Y3HJ4u2GsAMwyYeH5boVMyE_F4lIPXFLHW0ke87UODZNxcef7qKptGLI1ImRzJzITuUHz6UpAvgU4sEhrcatr__I3E1gXP-PJPvo9KvBAN9mSX5hggd4lSr3",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJJ2JbaneipBIRpVQ6RTJSwLA",
+         "plus_code" :
+         {
+            "compound_code" : "949X+G8 Barcelona",
+            "global_code" : "8FH4949X+G8"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJJ2JbaneipBIRpVQ6RTJSwLA",
+         "types" :
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 33270
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ del Comerç, 36, Ciutat Vella, 08003 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.387356,
+               "lng" : 2.181679
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38853122989271,
+                  "lng" : 2.183134429892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38583157010727,
+                  "lng" : 2.180434770107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu de la Xocolata",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 2976,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101570455031505877626\"\u003eMónica Vargas Grande\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYFYr_ii0CWFUA8tO56hyAFqj3XdEsx5_r-nXLUVoYNlUKPwrtycqOvvmgCNExOJqc2AMiYr7kWqn6w0MfQhTfUVQVyz9DuPcaBtxSE8mGJ8JNcnsNJebVvVfLIOBioAueAReRsyYrt99IRAkq7aeODaA2OJoNLB4ZhKDro_2ndCQjg",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJC6CEtf2ipBIRkFQaF95uL1Q",
+         "plus_code" :
+         {
+            "compound_code" : "95PJ+WM Barcelona",
+            "global_code" : "8FH495PJ+WM"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJC6CEtf2ipBIRkFQaF95uL1Q",
+         "types" :
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7374
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carrer de la Barra de Ferro, 5, Ciutat Vella, 08003 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3850107,
+               "lng" : 2.1802788
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38634062989272,
+                  "lng" : 2.181735879892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38364097010727,
+                  "lng" : 2.179036220107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "European Museum of Modern Art",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 4899,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111300941208917638618\"\u003e111300941208917638618\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYNNZnR2U3SzfMWG1He-Ukj-2LQ1Ix5yGC6Ev45eZJIlBlXalBmNpZpZiXzK61dEwgoeAAvDBywPnwnL_2dBcvBv-ctzTk4wa_m7ffFsoGnuSonZEfsIayo5ktbml_9diSR39HGxayNZ_HC-5pwHPw1-sbE1V8aJTqQZ73lTSNXAWSK",
+               "width" : 7991
+            }
+         ],
+         "place_id" : "ChIJveK7vP6ipBIRiegu-jsxGX8",
+         "plus_code" :
+         {
+            "compound_code" : "95PJ+24 Barcelona",
+            "global_code" : "8FH495PJ+24"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJveK7vP6ipBIRiegu-jsxGX8",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1973
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plaça Sant Iu, 5, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3842687,
+               "lng" : 2.1767598
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38587222989272,
+                  "lng" : 2.177956829892723
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38317257010728,
+                  "lng" : 2.175257170107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu Frederic Marès",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112712618651459928224\"\u003eElianet Pelaez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbskMxnQCT5OibmFcwtMaTm2MBHxWEsYveGJK_WK4MuSM5u3lNb6nDWxsNYH-1nzthE03TedMTNOVowdJY56djTinLi0YEC8qKE_Q0A4QqHs04SZ05fU8pBjE-A6wKvc8n0d95NZ9sqcxQtGQGwvKZUTScH6MGdr1T9Kf5ncI5nskRc",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJDQeJ-PiipBIRRKhLu4wgf-U",
+         "plus_code" :
+         {
+            "compound_code" : "95MG+PP Barcelona",
+            "global_code" : "8FH495MG+PP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJDQeJ-PiipBIRRKhLu4wgf-U",
+         "types" :
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2489
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ d'Isaac Newton, 26, Sarrià-Sant Gervasi, 08022 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.4131805,
+               "lng" : 2.131123
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.41493115000001,
+                  "lng" : 2.136256899999999
+               },
+               "southwest" :
+               {
+                  "lat" : 41.41038694999999,
+                  "lng" : 2.127912100000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu de la Ciència CosmoCaixa",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117178914482982471431\"\u003eRumah Barcelona\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbeG-vo-s-x7Cj3MH-RbhMKA7ynjCfRzucq_KCUuTeUk0Th0n0DkGyrAZCLgNay1pKNvzPwy9-xn-LoNQiOcvV0C_VfqW-CHjODMsi932eyQQnTyFDzLi8kWjtbBJWOl-3KoFGmsZYgikmLbVmFQd6dhg5wcyxbzwyjC8-3-ZhLVvbH",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJzdmhJBqYpBIR83dP63GAFSA",
+         "plus_code" :
+         {
+            "compound_code" : "C47J+7C Barcelona",
+            "global_code" : "8FH4C47J+7C"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJzdmhJBqYpBIR83dP63GAFSA",
+         "types" :
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 38600
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Montalegre, 5, Ciutat Vella, 08001 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3837044,
+               "lng" : 2.1668625
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38506677989272,
+                  "lng" : 2.167967529892723
+               },
+               "southwest" :
+               {
+                  "lat" : 41.38236712010728,
+                  "lng" : 2.165267870107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Centre de Cultura Contemporània de Barcelona",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100903724352841557024\"\u003eSotirios Siamandouras\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbNoOMGckVqQt36k0AwRRZ0tf8kw_vqWS_OkbxC8Bwsouw5aHTX-JxZiJJlBCHkFKzzup79bIUqBs1yWwrhI7lsLwouB7GOmA2apH31ywA9jKB4bf8mrl3KlFREmEHYNr9qQSD2HHagCu_j5K9NYDYlonYfYkR62wtFG5hPCLXpXDi3",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJLcC0-PSipBIRdHiFCj_ewdY",
+         "plus_code" :
+         {
+            "compound_code" : "95M8+FP Barcelona",
+            "global_code" : "8FH495M8+FP"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJLcC0-PSipBIRdHiFCj_ewdY",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9865
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. de les Glòries Catalanes, 37-38, Sant Martí, 08018 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.4024531,
+               "lng" : 2.1880815
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.40373465000001,
+                  "lng" : 2.190967349999999
+               },
+               "southwest" :
+               {
+                  "lat" : 41.40040204999998,
+                  "lng" : 2.186395150000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Design Museum of Barcelona",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3456,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113988576834558262151\"\u003eXuan Yin Liu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZtnacGBPIOpDXjOnWJ4IEd2g14t60EmT8fIHXJ86fATVSsXLkhHBzU_LEK_MaL-zHMimNnfXCpbV9b5bQ7hOFNx_QcO5Oad3hlq2FiWYPYL1SOZYLyYqWElEOjja9xN8RyyBowhObAOpY31vOFk9Abyq6hAN58RTvUVLdjP-i5ZEDB",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJ12d3ZlmYpBIRStDXELkkdJE",
+         "plus_code" :
+         {
+            "compound_code" : "C52Q+X6 Barcelona",
+            "global_code" : "8FH4C52Q+X6"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ12d3ZlmYpBIRStDXELkkdJE",
+         "types" :
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7552
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plaza Leonardo Da Vinci, 4-5, Sant Martí, 08019 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.4111948,
+               "lng" : 2.2211093
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.41284082989273,
+                  "lng" : 2.221877779892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.41014117010728,
+                  "lng" : 2.219178120107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Natural Sciences of Barcelona",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116101206081839180527\"\u003esamantha kopac\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa_k3GuIPNx4kvR14cwzFwWwQkxqwMGuNwauDWMgqPFbwZLUNrpDe9j1rzvgvn9L8TuFY09O187RmqmLHijuTP9XkEHtrs3OdrRE-V7rqOXTPozHecLSrmHZiRqBBmAxzeI_SMKo_RrvU7uesUYg5JyGzcYC16rPuoq7W02SFYr4GeA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZSW6S-eYpBIRpJ1QG2znF9E",
+         "plus_code" :
+         {
+            "compound_code" : "C66C+FC Barcelona",
+            "global_code" : "8FH4C66C+FC"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJZSW6S-eYpBIRpJ1QG2znF9E",
+         "types" :
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7714
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Park Güell, Ctra. del Carmel, 23A, Gràcia, 08013 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.4144709,
+               "lng" : 2.1536154
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.41624152989273,
+                  "lng" : 2.156021900000001
+               },
+               "southwest" :
+               {
+                  "lat" : 41.41354187010728,
+                  "lng" : 2.1527059
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Gaudí House Museum",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 1456,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105007893156567545344\"\u003eIgnacio Diaz Triviño\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYVW-H0eFtok0XMhKO5QW3xOn8ojo4oTl3LHYp6cPnZX8Bpkvk9Z0VbVlqC4KBYrmhlx3mzPqkCoYe0xXBSu5Az0zNU5PqiNmu3AvjpelNSz6SpzBqiZGqw3ojVpn5EDNa7oDHoSK5hRyjl1Hn-1iEzdlsb6crm_ckYvHpRAxbGpBbV",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJ4eD9ztyipBIR_g1BtyluWPM",
+         "plus_code" :
+         {
+            "compound_code" : "C573+QC Barcelona",
+            "global_code" : "8FH4C573+QC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ4eD9ztyipBIR_g1BtyluWPM",
+         "types" :
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6249
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ d'Arístides Maillol, s/n, Les Corts, 08028 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3802643,
+               "lng" : 2.1209085
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.38159627989272,
+                  "lng" : 2.122221979892722
+               },
+               "southwest" :
+               {
+                  "lat" : 41.37889662010728,
+                  "lng" : 2.119522320107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "FC Barcelona Museum",
+         "opening_hours" :
+         {
+            "open_now" : false
+         },
+         "photos" :
+         [
+            {
+               "height" : 3000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103620952293322272703\"\u003ejorge alvarez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb7zIKUvSUs9WJ6b66U856q1U8LBELriOa7iw5bao-d4ChlvAKGccFyoKKyZZSJFudKfntRDddamTBdqVykfYIlB3D1YuvcBmIsY9THxjQ69q6i_Md33i6Ur0bKD8fuc3UH1L9Yf5cSnNtpojX3T7YCIe6QduLC36V_V9WIzJmxIrIy",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ8Xo6PvSYpBIRL-dJTf5d_Ws",
+         "plus_code" :
+         {
+            "compound_code" : "94JC+49 Barcelona",
+            "global_code" : "8FH494JC+49"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ8Xo6PvSYpBIRL-dJTf5d_Ws",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18063
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pg. de Gràcia, 92, L'Eixample, 08008 Barcelona, Spain",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 41.3952155,
+               "lng" : 2.1619024
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 41.39652207989273,
+                  "lng" : 2.163307229892723
+               },
+               "southwest" :
+               {
+                  "lat" : 41.39382242010728,
+                  "lng" : 2.160607570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "La Pedrera-Casa Milà",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3750,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102888276412420232045\"\u003eluis vidilla\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZjVw4LLB6bgY3wu4osP3U5-gpqELjv1OqPChEWvO2HAbLZBaxAlStpU-5lhvTj9DA6SKNgtPseSzOYqVGuXQhmjf22-uaIcdM1eFX5yw2s4XdxYUmx67MvcxjdBDvIjFrQoDFAu0OsBoU1L6JSAjADoJZ0qoeLwyuqor5FQcwjrgiy",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJ1eGKmZOipBIRah43T2Kjn8Q",
+         "plus_code" :
+         {
+            "compound_code" : "95W6+3Q Barcelona",
+            "global_code" : "8FH495W6+3Q"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ1eGKmZOipBIRah43T2Kjn8Q",
+         "types" :
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 90841
+      }
+   ],
+   "status" : "OK"
+}
